@@ -1,0 +1,8 @@
+vendor/
+composer.lock
+composer.phar
+config/
+.idea/
+.env
+*.iml
+out.ogv
